@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chuneshwar-karanjekar/Get_User_Info/static/css/main.838a5d59.css",
+    "main.js": "/chuneshwar-karanjekar/Get_User_Info/static/js/main.a31a51ef.js",
+    "static/js/787.eaa74cd0.chunk.js": "/chuneshwar-karanjekar/Get_User_Info/static/js/787.eaa74cd0.chunk.js",
+    "index.html": "/chuneshwar-karanjekar/Get_User_Info/index.html",
+    "main.838a5d59.css.map": "/chuneshwar-karanjekar/Get_User_Info/static/css/main.838a5d59.css.map",
+    "main.a31a51ef.js.map": "/chuneshwar-karanjekar/Get_User_Info/static/js/main.a31a51ef.js.map",
+    "787.eaa74cd0.chunk.js.map": "/chuneshwar-karanjekar/Get_User_Info/static/js/787.eaa74cd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.838a5d59.css",
+    "static/js/main.a31a51ef.js"
+  ]
+}
